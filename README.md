@@ -2,7 +2,7 @@
 I am a former Math tutor turned Data Scientist. I like jazz music and am bit of a foodie.
 
 
-   I have a passioin for Machine Learning | Data Engineering | Data Science and Analysis <br/>
+   I have a passion for Machine Learning | Data Engineering | Data Science and Analysis <br/>
 🔭 I’m currently working on Django sales report app
 
 📫 Please reach out to me on [Linkedin](https://www.linkedin.com/in/esteban-zuniga-b6460091/)
