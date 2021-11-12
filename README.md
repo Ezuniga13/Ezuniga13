@@ -2,8 +2,8 @@
 I am a former Math tutor turned Data Scientist. I like jazz music and am bit of a foodie.
 
 
--- I have a passioin for Machine Learning | Data Engineering | Data Science and Analysis
--- - 🌱 I’m currently working on Django sales report app
+-I have a passioin for Machine Learning | Data Engineering | Data Science and Analysis <br/>
+-🌱 I’m currently working on Django sales report app
 
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/esteban-zuniga-b6460091/)
 
