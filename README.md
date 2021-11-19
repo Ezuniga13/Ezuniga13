@@ -1,5 +1,5 @@
 ### Hi there, I'm Esteban Zuniga 👋
-I am a former Math tutor turned Data Scientist. I like jazz music, classic film and am bit of a foodie.
+I am a former Math tutor turned Data Scientist. I like jazz music, classic films and am bit of a foodie.
 
 
    I have a passion for Machine Learning | Data Engineering | Data Science and Analysis <br/>
