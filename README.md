@@ -3,7 +3,7 @@ I am a former Math tutor turned Data Engineer/Scientist. I like jazz music, clas
 
 
    I have a passion for Machine Learning | Data Engineering | Data Science and Analysis <br/>
-🔭 I’m currently working on Django sales report app
+🔭 I’m currently working on an automated Data Pipeline and using Docker!
 
 📫 Please reach out to me on [Linkedin](https://www.linkedin.com/in/esteban-zuniga-b6460091/)
 
