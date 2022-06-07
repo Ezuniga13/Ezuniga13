@@ -2,8 +2,8 @@
 I am a former Math tutor turned Data Engineer/Scientist. I like jazz music, classic films and am bit of a foodie.
 
 
-   I have a passion for Machine Learning | Data Engineering | Data Science and Analysis <br/>
-🔭 I’m currently working on an automated Data Pipeline and using Docker to productionize it!
+   I have a passion for Data/Analytics Engineering <br/>
+🔭 I’m currently working on an animated dashboard using Dash to build it and Docker to productionize it!
 
 📫 Please reach out to me on [Linkedin](https://www.linkedin.com/in/esteban-zuniga-b6460091/)
 
